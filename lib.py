@@ -9,4 +9,12 @@ def subtracao(a, b):
 
 
 
+if __name__ == "__main__":
+    a = 2
+    b = 5
+    
+    print("O resultado da operação é: ", subtracao(a, b))
+
+
+
 
